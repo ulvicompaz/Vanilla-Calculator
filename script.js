@@ -113,6 +113,7 @@ operationButtons.forEach(button => {
 equalsButton.addEventListener('click', button => {
   calculator.compute()
   calculator.updateDisplay()
+  new Audio ('audio/1.mp3').play()
 })
 
 allClearButton.addEventListener('click', button => {
