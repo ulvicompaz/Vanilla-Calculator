@@ -1,0 +1,8 @@
+# ignore file
+# style.css
+
+# ignore files from directory
+# js/app.js
+
+# ignore file extensions
+*.mp3
